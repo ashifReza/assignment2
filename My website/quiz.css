@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(86, 90, 90) ;
+    color:rgb(15, 15, 15);
+    font-style: italic;
+    font-size:20px;
+    font-weight:bolder;
+    margin-left: 10rem;
+    text-shadow: 1px 1px 1px rgb(243, 239, 239);
+    background-image: url(sil.jpg);   
+    background-size: cover;
+    background-position: center;          
+    
+}
+
+#button{
+
+    background-color: rgba(196, 42, 42, 0.945);
+    color: rgb(228, 231, 59);
+    font-size: 18px;
+    padding:5px;
+
+}
